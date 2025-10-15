@@ -1,1 +1,38 @@
-
+Telecom-ML-Research/
+│
+├── 📄 README.md
+├── ⚙️ requirements.txt
+├── 📊 datasets/
+│   ├── 📁 churn_prediction/
+│   ├── 📁 5g_anomaly/
+│   ├── 📁 network_traffic/
+│   ├── 📁 fraud_detection/
+│   ├── 📁 small_cell_optimization/
+│   ├── 📁 remote_monitoring/
+│   └── 📁 emergency_response/
+│
+├── 📓 notebooks/
+│   ├── 📘 01_churn_prediction.ipynb
+│   ├── 📘 02_5g_anomaly_detection.ipynb
+│   ├── 📘 03_network_traffic_forecasting.ipynb
+│   ├── 📘 04_fraud_detection.ipynb
+│   ├── 📘 05_small_cell_optimization.ipynb
+│   ├── 📘 06_remote_patient_monitoring.ipynb
+│   └── 📘 07_emergency_response.ipynb
+│
+├── 🐍 src/
+│   ├── __init__.py
+│   ├── 📁 data_processing/
+│   ├── 📁 models/
+│   ├── 📁 utils/
+│   └── 📁 evaluation/
+│
+├── 📈 results/
+│   ├── 📁 figures/
+│   ├── 📁 models/
+│   └── 📁 reports/
+│
+└── 📚 docs/
+    ├── 📄 literature_review.md
+    ├── 📁 references/
+    └── 📄 project_proposal.md
